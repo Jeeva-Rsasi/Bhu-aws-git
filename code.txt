@@ -1,0 +1,1 @@
+This is nano file, I used ctrl-s to save and ctrl-x to exit the nano editor
